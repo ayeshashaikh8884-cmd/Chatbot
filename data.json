@@ -1,0 +1,73 @@
+{
+  "college": {
+    "name": "KLE Society's BCA (Bachelor of Computer Applications)",
+    "location": "Belgaum (Belagavi), Karnataka, India",
+    "affiliation": "Affiliated to Rani Channamma University / Recognized under KLE Society",
+    "established": "KLE Society has been running educational institutions since 1916"
+  },
+  "course": {
+    "name": "Bachelor of Computer Applications (BCA)",
+    "duration": "3 Years (6 Semesters)",
+    "eligibility": "Candidate must have passed 10+2 (PUC) from a recognized board with Mathematics/Computer Science as one of the subjects, with a minimum of 45% aggregate marks (40% for reserved categories).",
+    "admission_process": [
+      "Fill the online/offline application form available on the KLE college website or admission office",
+      "Submit required documents (marks cards, TC, migration certificate, caste certificate if applicable)",
+      "Merit-based shortlisting as per PUC marks",
+      "Attend counselling/interaction session at the college",
+      "Pay admission fee to confirm the seat"
+    ],
+    "documents_required": [
+      "10th Marks Card",
+      "12th/PUC Marks Card",
+      "Transfer Certificate (TC)",
+      "Migration Certificate",
+      "Caste/Income Certificate (if applicable)",
+      "Aadhar Card",
+      "Passport size photographs"
+    ],
+    "fee_structure": "Approximate annual fee ranges between INR 35,000 - 60,000 depending on category and hostel/other facilities. Exact fee should be confirmed with the college admission office.",
+    "subjects_covered": [
+      "Programming in C, C++, Java, Python",
+      "Data Structures and Algorithms",
+      "Database Management Systems",
+      "Web Technologies",
+      "Computer Networks",
+      "Operating Systems",
+      "Software Engineering",
+      "Cloud Computing and AI basics"
+    ]
+  },
+  "important_dates": {
+    "application_start": "Usually starts in May every year",
+    "application_end": "Usually closes by end of July / early August",
+    "classes_commence": "Typically first week of August"
+  },
+  "contact": {
+    "address": "KLE Society's Institutions, Belgaum (Belagavi), Karnataka - 590001",
+    "phone": "+91-831-2XXXXXX (Contact college office for exact number)",
+    "email": "admissions@klebelgaum.edu.in (sample - verify with official site)",
+    "website": "https://www.kletech.ac.in / https://www.klesociety.org"
+  },
+  "faqs": [
+    {
+      "question": "What is the eligibility for BCA admission?",
+      "answer": "Candidates must have completed 10+2 (PUC) with at least 45% marks (40% for reserved category) from a recognized board, preferably with Mathematics or Computer Science."
+    },
+    {
+      "question": "Is there an entrance exam for BCA?",
+      "answer": "Generally, admission is merit-based on PUC marks. Some years a common entrance test may be conducted; please confirm with the admission office for the current year."
+    },
+    {
+      "question": "What is the duration of the BCA course?",
+      "answer": "The BCA course is a 3-year full-time program divided into 6 semesters."
+    },
+    {
+      "question": "Does the college provide hostel facility?",
+      "answer": "Yes, KLE Society provides hostel facilities for both boys and girls, subject to availability."
+    },
+    {
+      "question": "What are the career opportunities after BCA?",
+      "answer": "Graduates can pursue roles like Software Developer, Web Developer, System Analyst, Database Administrator, or continue higher studies like MCA/MBA."
+    }
+  ]
+}
